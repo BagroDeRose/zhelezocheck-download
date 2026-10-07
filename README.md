@@ -6,13 +6,13 @@
 
 ## Скачать
 
-Последняя версия: **1.1.0** — [страница релиза](https://github.com/BagroDeRose/zhelezocheck-download/releases/latest), файл `ЖелезоЧек-v1.1.0.zip`.
+Последняя версия: **1.1.0** — [страница релиза](https://github.com/BagroDeRose/zhelezocheck-download/releases/latest), файл `ZhelezoChek-v1.1.0.zip`.
 
 SHA-256 архива:
 ```
 c833b42dd85fda30cb847c1b9905f5e99472dc9a1508aba78e5cbe9a327efbfd
 ```
-Проверить в PowerShell: `Get-FileHash .\ЖелезоЧек-v1.1.0.zip` — значение должно совпасть.
+Проверить в PowerShell: `Get-FileHash .\ZhelezoChek-v1.1.0.zip` — значение должно совпасть.
 
 ## Как запустить
 
