@@ -8,16 +8,16 @@
 
 ## Скачать
 
-Последняя версия: **1.3.0**, файл `ZhelezoChek-v1.3.0.zip`.
+Последняя версия: **1.5.0**, файл `ZhelezoChek-v1.5.0.zip`.
 
 - [Google Диск (основная ссылка)](https://drive.google.com/drive/folders/1LW-EB70j8Hkf9W7xQKP5RJ30de1D-o9C?usp=sharing)
 - [GitHub — страница релиза](https://github.com/BagroDeRose/zhelezocheck-download/releases/latest)
 
 SHA-256 архива (для проверки, что файл скачался целиком и не подменён):
 ```
-a43e5545e87d0281c15e7ed54b4a8dbd8c9d9042ecfc5411bc07d428c68f8997
+a8bf07f4bd6d60bc6f7e3e3e74896e2a65367e92b34df1fc75d8864c8badaed1
 ```
-Проверить в PowerShell: `Get-FileHash .\ZhelezoChek-v1.3.0.zip` — значение должно совпасть.
+Проверить в PowerShell: `Get-FileHash .\ZhelezoChek-v1.5.0.zip` — значение должно совпасть.
 
 Google Диск для больших файлов предупреждает, что не может проверить их на вирусы, —
 это обычное сообщение, нажмите «Всё равно скачать».
